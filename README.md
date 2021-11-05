@@ -1,2 +1,1 @@
-# PHP_Login_System_OOP
- 
+This is a simple login system using PHP with OOP and PDO, using Sessions to display different content if when you login/logout with the respective error handlers, the  Database Management system used was MySQLI.
