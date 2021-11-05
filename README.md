@@ -1,1 +1,1 @@
-This is a simple login system using PHP with OOP and PDO, using Sessions to display different content if when you login/logout with the respective error handlers, the  Database Management system used was MySQLI.
+This is a simple login/register system using PHP with OOP and PDO, using Sessions to display different content if when you login/logout with the respective error handlers, the  Database Management system used was MySQLI.
